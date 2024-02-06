@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code used to generate figures for our latest review (doi follows) @DCI. The code utilizes various R packages, including `networkD3`, `umap`, `tidymodels` for SVM-RBF, and `plotly` and `ggplot2` for visualizing big datasets.
+This repository contains the code used to generate figures for our latest article [The Nexus of Nuclear Envelope Dynamics, Circular Economy and Cancer Cell Pathophysiology](https://doi:10.1016/j.ejcb.2024.151394) at the Danish Cancer Institute. The code utilizes various R packages, including `networkD3`, `umap`, `tidymodels` for SVM-RBF, and `plotly` and `ggplot2` for visualizing big datasets.
 
 ## Prerequisites
 
